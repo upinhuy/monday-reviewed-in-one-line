@@ -1,8 +1,8 @@
 # Monday, Reviewed in One Line
 
 [![make.fun](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
-[![rank](https://make.fun/badge/upinhuy/monday-reviewed-in-one-line/rank.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
-[![reward](https://make.fun/badge/upinhuy/monday-reviewed-in-one-line/reward.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+[![rank](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/upinhuy/monday-reviewed-in-one-line/rank.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+[![reward](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/upinhuy/monday-reviewed-in-one-line/reward.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 
 An entry for the [make.fun bounty "Monday, Reviewed in One Line"](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1) ($2, top 5 paid).
 
